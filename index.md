@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Apollon77 GitHub Home Browser Title
 description: GitHub Home for all Apollon77 projects??
 ---
