@@ -1,10 +1,7 @@
 ---
 layout: default
-title: Apollon77 GitHub Home
-description: GitHub Home for all Apollon77 projects
-site:
-    title: Apollon77 GitHub Home
-    description: GitHub Home for all Apollon77 projects
+title: Apollon77 GitHub Home2
+description: GitHub Home for all Apollon77 projects2
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
