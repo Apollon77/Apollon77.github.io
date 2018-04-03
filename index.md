@@ -2,6 +2,8 @@
 layout: default
 title: Apollon77 GitHub Home
 description: GitHub Home for all Apollon77 projects
+project-name: Apollon77 GitHub Home
+project-tagline: GitHub Home for all Apollon77 projects
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
