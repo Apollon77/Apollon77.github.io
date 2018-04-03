@@ -272,5 +272,12 @@ defaults:
     values:
       sidebar:
         nav: "docs"
-
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
 related: true
