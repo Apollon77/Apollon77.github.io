@@ -1,6 +1,6 @@
 main:
   - title: "Quick-Start Guide"
-    url: /another-page.md
+    url: /another-page/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
