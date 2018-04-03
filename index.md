@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Apollon77 GitHub Home2
-description: GitHub Home for all Apollon77 projects2
+title: Apollon77 GitHub Home Browser Title
+description: GitHub Home for all Apollon77 projects??
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
